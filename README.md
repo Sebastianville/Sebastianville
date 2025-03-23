@@ -26,4 +26,5 @@
 <img align="left" alt="ReactJS" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
 <img align="left" alt="SQLite" width="46px" style='padding: 10px 10px 0 0' src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
 <img align="left" alt="TailwindCSS" width="46px" style='padding: 10px 10px 0 0' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianville&" alt="sebastianville" /></p>
