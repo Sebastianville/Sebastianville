@@ -1,32 +1,18 @@
-<h1 align="center">Hi 👋, I'm an aspiring software Engineer Sebastian</h1>
-<h3 align="center">A passionate full-stack developer from NYC</h3>
+# 💫 About Me:
+🌱 I’m currently learning **Typescript, MongoDB, and Express**<br>💬 Ask me about **React and JavaScript**<br>📫 How to reach me **Sebastian.villegas2623@gmail.com**<br>⚡ Fun fact **If I am not coding, I am learning to dance salsa and how to swim**
 
-- 🌱 I’m currently learning **Typescript, MongoDB, and Express**
 
-- 💬 Ask me about **React and JavaScript**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastian-villegas-jimenez/) 
 
-- 📫 How to reach me **Sebastian.villegas2623@gmail.com**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
 
-- ⚡ Fun fact **If I am not coding, I am learning to dance salsa and how to swim**
+![](https://nirzak-streak-stats.vercel.app/?user=Sebastianville&theme=default&hide_border=false)<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastian-villegas-jimenez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-villegas-jimenez/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="margin-bottom: 20px;">
-    <img align="left" alt="Bootstrap" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-    <img align="left" alt="CSS3" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-    <img align="left" alt="ExpressJS" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>
-    <img align="left" alt="JavaScript" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    <img align="left" alt="MongoDB" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-    <img align="left" alt="NodeJS" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-    <img align="left" alt="Pug" width="46px" style='padding: 10px 10px 0 0' src="https://cdn.worldvectorlogo.com/logos/pug.svg"/>
-    <img align="left" alt="Python" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    <img align="left" alt="ReactJS" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-    <img align="left" alt="SQLite" width="46px" style='padding: 10px 10px 0 0' src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
-    <img align="left" alt="TailwindCSS" width="46px" style='padding: 10px 10px 0 0' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Sebastianville&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianville&" alt="sebastianville" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
