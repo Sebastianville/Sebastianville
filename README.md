@@ -15,18 +15,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;"/>
-</p>
-
+<img align="left" alt="Bootstrap" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+<img align="left" alt="CSS3" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+<img align="left" alt="ExpressJS" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>
+<img align="left" alt="JavaScript" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="MongoDB" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="NodeJS" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="left" alt="Pug" width="46px" style='padding: 10px 10px 0 0' src="https://cdn.worldvectorlogo.com/logos/pug.svg"/>
+<img align="left" alt="Python" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="left" alt="ReactJS" width="46px" style='padding: 10px 10px 0 0' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+<img align="left" alt="SQLite" width="46px" style='padding: 10px 10px 0 0' src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
+<img align="left" alt="TailwindCSS" width="46px" style='padding: 10px 10px 0 0' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianville&" alt="sebastianville" /></p>
