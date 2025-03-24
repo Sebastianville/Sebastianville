@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Typescript, MongoDB, and Express**<br>💬 Ask me about **React and JavaScript**<br>📫 How to reach me **Sebastian.villegas2623@gmail.com**<br>⚡ Fun fact **If I am not coding, I am learning to dance salsa and how to swim**
+🌱 I’m currently learning **Typescript, MongoDB, and Express**<br>💬 Ask me about **React and JavaScript**<br>📫 How to reach me **Sebastian.villegas2623@gmail.com**<br>⚡ Fun fact **If I am not coding, I am learning to dance salsa and how to swim. I am also chasing lanterns or looking up to the stars**
 
 
 ## 🌐 Socials:
